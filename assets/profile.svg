@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 450" role="img" aria-labelledby="title">
+  <title id="title">Illustrated portrait of a student</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4efff"/><stop offset="1" stop-color="#d9cdfc"/></linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8062df"/><stop offset="1" stop-color="#563eb2"/></linearGradient>
+  </defs>
+  <rect width="420" height="450" fill="url(#bg)"/>
+  <circle cx="347" cy="99" r="44" fill="#fff" opacity=".34"/>
+  <circle cx="62" cy="292" r="27" fill="#fff" opacity=".38"/>
+  <path d="M75 450c10-92 59-143 135-143s125 51 135 143" fill="url(#shirt)"/>
+  <path d="M172 284h76v72c-12 17-64 17-76 0z" fill="#c47d59"/>
+  <ellipse cx="210" cy="197" rx="91" ry="105" fill="#d9926d"/>
+  <path d="M119 193c-6-94 36-143 102-143 75 0 104 54 86 137l-12-52c-16 8-36 11-63 7-35-5-62-23-76-41-5 36-15 69-37 92z" fill="#292535"/>
+  <path d="M121 183c-15-2-22 8-18 25 3 14 12 23 25 24m173-49c15-2 22 8 18 25-3 14-12 23-25 24" fill="#d9926d"/>
+  <path d="M174 199c8-6 18-6 25 0m31 0c8-6 18-6 25 0" fill="none" stroke="#382a2a" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="188" cy="211" rx="4" ry="5" fill="#292535"/><ellipse cx="242" cy="211" rx="4" ry="5" fill="#292535"/>
+  <path d="M203 246c6 5 13 5 19 0" fill="none" stroke="#985446" stroke-width="4" stroke-linecap="round"/>
+  <path d="M165 172c8-9 22-12 34-7m23 0c12-5 26-2 34 7" fill="none" stroke="#292535" stroke-width="6" stroke-linecap="round"/>
+  <path d="M124 170c3-51 26-91 74-102 44-10 91 14 105 53-23-14-49-22-81-21-37 1-65 20-98 70z" fill="#292535"/>
+  <path d="M187 317l23 24 24-24 34 14-31 50h-55l-31-50z" fill="#fff" opacity=".93"/>
+  <path d="M191 323l19 18 19-18-8 58h-22z" fill="#6c50cf"/>
+  <circle cx="317" cy="338" r="18" fill="#f3b95e"/><path d="M317 308v-9m0 78v-9m30-30h9m-78 0h9m51-21 7-7m-55 55 7-7m41 0 7 7m-55-55 7 7" stroke="#f3b95e" stroke-width="3" stroke-linecap="round"/>
+</svg>
